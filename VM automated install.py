@@ -1,3 +1,5 @@
+# This is still a work in progess. it'll take a few more functions to finish this off.
+
 import time
 import pyautogui
 import pyautogui as wagie
