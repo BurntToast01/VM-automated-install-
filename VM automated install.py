@@ -86,7 +86,7 @@ class automated:
         #cv.waitKey (1000)
         while True:
 
-            # DO NOT change this screen capture you dumb fuck
+            # DO NOT change this screen capture 
             # Use this to start matching templates with Opencv.
             a = np.array (ImageGrab.grab (bbox=(x, y, x + w, y + h)))
             #print(self.REGION)
